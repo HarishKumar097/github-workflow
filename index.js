@@ -13,9 +13,9 @@ function mul (num1, num2) {
     return num1 * num2
 }
 
-function divide (num1, num2) {
+function divide (number1, number2) {
 
-    return num1/num2
+    return number1 / number2
 }
 
 export {add, sub, mul, divide}
